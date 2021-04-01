@@ -1,5 +1,5 @@
 # RoomScheduler
-Room Scheduler is a desktop application which professors in a university can use to book lecture rooms and laboratories. Developed during the Spring 2020 Object Oriented Design with Web-Based Applications. This project is a databse driven program develped using Java Swing as a GUI. The database used is Derby. The aim of this desktop application is to provide an user friendly GUI to handle the task of reserving rooms, managing availablilty of rooms, managin conflicts and waitlist.
+Room Scheduler is a desktop application which professors in a university can use to book lecture rooms and laboratories. Developed during the Spring 2020 Object Oriented Design with Web-Based Applications. This project is a databse driven program develped using Java Swing as a GUI. The database used is Derby. The aim of this desktop application is to provide an user friendly GUI to handle the task of reserving rooms, managing availablilty of rooms, managing conflicts and waitlist.
 
 ## Implementaion specific details
 * The rooms are booked by Faculty name
